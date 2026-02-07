@@ -1,0 +1,11 @@
+{
+  "id": "zenith-hoodie-1",
+  "name": "Zenith Hoodie 1",
+  "price": 450,
+  "soldOut": false,
+  "image": "1.png",
+  "description": "Make a statement with this bold design. High-quality cotton for all-day comfort.",
+  "sizes": ["S", "M", "L", "XL", "XXL"],
+  "category": "t-shirts"
+}
+

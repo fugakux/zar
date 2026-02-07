@@ -1,0 +1,11 @@
+{
+  "id": "2",
+  "name": "PRODUCT 2",
+  "price": 450,
+  "soldOut": false,
+  "image": "2.png",
+  "description": "Premium quality product with unique design. Comfortable fit and durable materials.",
+  "sizes": ["S", "M", "L", "XL", "XXL"],
+  "category": "apparel"
+}
+

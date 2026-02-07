@@ -1,0 +1,11 @@
+{
+  "id": "7",
+  "name": "PRODUCT 7",
+  "price": 450,
+  "soldOut": true,
+  "image": "1.png",
+  "description": "Sold out classic design. Check back for restocks or explore similar products.",
+  "sizes": ["S", "M", "L", "XL", "XXL"],
+  "category": "apparel"
+}
+

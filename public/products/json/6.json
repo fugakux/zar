@@ -1,0 +1,11 @@
+{
+  "id": "6",
+  "name": "PRODUCT 6",
+  "price": 650,
+  "soldOut": true,
+  "image": "3.png",
+  "description": "Limited edition premium product. Exclusive design with superior quality.",
+  "sizes": ["S", "M", "L", "XL", "XXL"],
+  "category": "apparel"
+}
+
